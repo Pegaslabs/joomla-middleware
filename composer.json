@@ -1,0 +1,12 @@
+{
+  "name": "vistiyos/joomla-middleware",
+  "description": "Abstraction layer to adapt every project to Joomla MVC structure",
+  "minimum-stability": "dev",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Victor Escobar",
+      "email": "victorescobargonza@gmail.com"
+    }
+  ]
+}
